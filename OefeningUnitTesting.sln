@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OefeningUnitTesting", "OefeningUnitTesting\OefeningUnitTesting.csproj", "{EE365DD8-AAD3-4390-96CC-F0B534D1CDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfefeningUnitTesting.Tests", "OfefeningUnitTesting.Tests\OfefeningUnitTesting.Tests.csproj", "{ABE9DB8E-CF1E-4C53-AB54-D4863A6B174B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE365DD8-AAD3-4390-96CC-F0B534D1CDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE365DD8-AAD3-4390-96CC-F0B534D1CDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE365DD8-AAD3-4390-96CC-F0B534D1CDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE365DD8-AAD3-4390-96CC-F0B534D1CDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE9DB8E-CF1E-4C53-AB54-D4863A6B174B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE9DB8E-CF1E-4C53-AB54-D4863A6B174B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE9DB8E-CF1E-4C53-AB54-D4863A6B174B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE9DB8E-CF1E-4C53-AB54-D4863A6B174B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34FFB4A0-DF5D-4E62-B39A-B85E3039DFB8}
+	EndGlobalSection
+EndGlobal
